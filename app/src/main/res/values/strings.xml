@@ -6,8 +6,9 @@
     <string name="app_size_mib">%1$.2f MiB</string>
     <string name="app_size_gib">%1$.2f GiB</string>
     <string name="apk">APK</string>
-    <string name="file_sharing">FILE Sharing</string>
+    <string name="file_sharing">FILE\nSharing</string>
     <string name="send">Send</string>
     <string name="select">Select File</string>
     <string name="file_name">File Name</string>
+    <color name="grey">#23272A</color>
 </resources>
